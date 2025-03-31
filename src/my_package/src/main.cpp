@@ -4,5 +4,6 @@
 int main()
 {
     printHello();
+    std::cout << "goodbye" << std::endl;
     return 0;
 }
